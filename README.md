@@ -2,7 +2,7 @@
 Дискорд(если попали сюда случайно):https://discord.gg/BUcshMVwgp
 
 Скрипты roblox:
-loadstring(game:HttpGet("https://pastebin.com/raw/uVTDvEeJ%22"))() 
+loadstring(game:HttpGet("https://pastebin.com/raw/uVTDvEeJ%22"))() НЕ РАБОТАЕТ(пока-что)
 поместить в любой инжектор для roblox(его можно найти у нас в дискорде)
 
 Читы Rust:
