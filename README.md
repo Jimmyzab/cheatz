@@ -20,4 +20,13 @@ Rust макросы:
 Скачать: https://drive.google.com/uc?export=download&id=1anpQ59-49XER5FKA_E3xOA6E4p9aTh4a
 Пиратка v0.8.0.8
 
+Чит на раст Superiority
+
+
+
+
+
 На этом пока-что всё! В будущем больше!
+![{BYZ](https://user-images.githubusercontent.com/111064810/220682950-c4559c8b-1b2b-4e52-9609-8becfc7ac47d.jpg)
+V2370
+Скачать: https://drive.google.com/uc?export=download&id=1ShWJ-e3kCuHnOiQ3v9HrA1WTYSIBXK1D
